@@ -1,2 +1,2 @@
-# TAD_Bootstrap_Jos-_Antonio_Guti-rrez_Inurria
+# TAD_Bootstrap_Jose_Antonio_Gutierrez_Inurria
 Proyecto Bootstrap para TAD
